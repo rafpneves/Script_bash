@@ -54,7 +54,7 @@ git push -u origin main
 ################# Chamado de Funcrtion ##################
 
 #atualiza_git
-inicio_git
-#atualiza_git
+#inicio_git
+atualiza_git
 #apaga_git
 
